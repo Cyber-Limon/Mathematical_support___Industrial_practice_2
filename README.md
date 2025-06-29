@@ -1,1 +1,1 @@
-# Mathematical_support___Industrial_practice___2
+# Математическое обеспечение | Производственная практика 2

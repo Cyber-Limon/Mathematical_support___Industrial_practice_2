@@ -272,6 +272,7 @@ def delete_note():
 # === Закрытие программы ===
 def on_close():
     save_data()
+    plt.close('all')
     root.destroy()
 
 

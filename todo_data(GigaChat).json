@@ -1,0 +1,32 @@
+{
+    "tasks": [
+        {
+            "task": "Готовиться к экзамену",
+            "category": "Учеба",
+            "due_date": "2025-10-10",
+            "completed": true
+        },
+        {
+            "task": "Починить кран",
+            "category": "Дом",
+            "due_date": "2025-10-12",
+            "completed": false
+        },
+        {
+            "task": "1234",
+            "category": "Работа",
+            "due_date": "1234-12-12",
+            "completed": false
+        }
+    ],
+    "notes": [
+        {
+            "note": "Планирую отдых",
+            "category": "Дом"
+        },
+        {
+            "note": "Переговоры с клиентом",
+            "category": "Работа"
+        }
+    ]
+}

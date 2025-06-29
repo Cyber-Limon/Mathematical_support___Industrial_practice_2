@@ -91,7 +91,7 @@ class App(tk.Tk):
     def on_closing(self):
 
         self.save_data()
-
+        plt.close('all')
         self.destroy()
 
     def show_page(self, page_class):
